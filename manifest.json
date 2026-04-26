@@ -1,0 +1,19 @@
+{
+  "name": "Treningsapp",
+  "short_name": "Trening",
+  "description": "Logg treningsøkter til Google Sheets",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8ec",
+  "theme_color": "#fff8ec",
+  "icons": [
+    {
+      "src": "icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
